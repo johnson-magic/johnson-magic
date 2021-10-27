@@ -1,0 +1,26 @@
+{
+    "bio": "I focus on medical image analysis and 3D computer vision. I have (co-)first-authored 10+ papers on top-tier journals/conferences, e.g., Cancer Research, CVPR, MICCAI, and NeurIPS. I have been a reviewer for 10+ prestigious venues, a top-ranking participant for several AI competitions, and the lead organizer for <a href='https://ribfrac.grand-challenge.org/'>MICCAI 2020 RibFrac Challenge</a>.",
+    "preprint": [
+        "M3DV/RibFrac-Challenge"
+    ],
+    "pub": [
+        "MedMNIST/MedMNIST",
+        "M3DV/RibSeg",
+        "M3DV/ACSConv",
+        "M3DV/FracNet",
+        "TrustworthyDL/LeBA",
+        "M3DV/SimTA",
+        "M3DV/AlignShift",
+        "duducheng/DenseSharp"
+    ],
+    "edu": [
+        "M3DV/Kickstart",
+        "duducheng/2048-api",
+        "duducheng/clustering_tutorial"
+    ],
+    "misc": [
+        "M3DV/ai-deadlines",
+        "duducheng/Learning-Notes",
+        "duducheng/deeplabv3p_gluon"
+    ]
+}
